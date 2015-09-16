@@ -1,2 +1,2 @@
 # simplemail
-simple based on javamail
+simplemail based on javamail
